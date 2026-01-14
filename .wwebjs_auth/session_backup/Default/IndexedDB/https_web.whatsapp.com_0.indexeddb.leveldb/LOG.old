@@ -1,0 +1,88 @@
+2026/01/14-19:02:17.089 91ef Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-19:02:17.090 91ef Recovering log #1961
+2026/01/14-19:02:17.161 91ef Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001961.log 
+2026/01/14-19:02:19.194 91fa Level-0 table #1996: started
+2026/01/14-19:02:19.297 91fa Level-0 table #1996: 792706 bytes OK
+2026/01/14-19:02:19.334 91fa Delete type=0 #1961
+2026/01/14-19:02:19.335 91f9 Manual compaction at level-0 from '\x00I\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at '\x00I\x00\x00\x05' @ 6073448 : 1
+2026/01/14-19:02:19.335 91f9 Compacting 1@0 + 1@1 files
+2026/01/14-19:02:19.433 91f9 Generated table #1997@0: 19033 keys, 358025 bytes
+2026/01/14-19:02:19.478 91f9 Generated table #1998@0: 151 keys, 12160 bytes
+2026/01/14-19:02:19.536 91f9 Generated table #1999@0: 229 keys, 3179 bytes
+2026/01/14-19:02:19.592 91f9 Generated table #2000@0: 1050 keys, 24289 bytes
+2026/01/14-19:02:19.592 91f9 Compacted 1@0 + 1@1 files => 397653 bytes
+2026/01/14-19:02:19.648 91f9 compacted to: files[ 0 4 41 0 0 0 0 ]
+2026/01/14-19:02:19.649 91f9 Delete type=2 #1996
+2026/01/14-19:02:19.649 91ef Manual compaction at level-0 from '\x00I\x00\x00\x05' @ 6073448 : 1 .. '\x00J\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/14-19:02:19.916 91f1 Compacting 1@1 + 9@2 files
+2026/01/14-19:02:20.196 91f1 Generated table #2001@1: 55990 keys, 2220581 bytes
+2026/01/14-19:02:20.340 91f1 Generated table #2002@1: 6603 keys, 2159610 bytes
+2026/01/14-19:02:20.474 91f1 Generated table #2003@1: 2382 keys, 2159364 bytes
+2026/01/14-19:02:20.621 91f1 Generated table #2004@1: 2724 keys, 2154719 bytes
+2026/01/14-19:02:20.733 91f1 Generated table #2005@1: 2761 keys, 2155632 bytes
+2026/01/14-19:02:20.857 91f1 Generated table #2006@1: 2656 keys, 2157702 bytes
+2026/01/14-19:02:21.121 91f1 Generated table #2007@1: 3000 keys, 2152422 bytes
+2026/01/14-19:02:21.392 91f1 Generated table #2008@1: 267 keys, 205925 bytes
+2026/01/14-19:02:21.392 91f1 Compacted 1@1 + 9@2 files => 15365955 bytes
+2026/01/14-19:02:21.781 91f1 compacted to: files[ 0 3 40 0 0 0 0 ]
+2026/01/14-19:02:21.782 91f1 Delete type=2 #1971
+2026/01/14-19:02:21.782 91f1 Delete type=2 #1969
+2026/01/14-19:02:21.782 91f1 Delete type=2 #1929
+2026/01/14-19:02:21.782 91f1 Delete type=2 #1966
+2026/01/14-19:02:21.782 91f1 Delete type=2 #1997
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1970
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1930
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1931
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1967
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1968
+2026/01/14-19:02:21.783 91f1 Delete type=2 #1932
+2026/01/14-19:02:21.813 91f1 Compacting 1@1 + 10@2 files
+2026/01/14-19:02:22.474 91f1 Generated table #2009@1: 36385 keys, 2231121 bytes
+2026/01/14-19:02:22.686 91f1 Generated table #2010@1: 30198 keys, 2271631 bytes
+2026/01/14-19:02:22.911 91f1 Generated table #2011@1: 31236 keys, 2262551 bytes
+2026/01/14-19:02:23.102 91f1 Generated table #2012@1: 27126 keys, 2228174 bytes
+2026/01/14-19:02:23.236 91f1 Generated table #2013@1: 4520 keys, 2125414 bytes
+2026/01/14-19:02:23.382 91f1 Generated table #2014@1: 5052 keys, 2128111 bytes
+2026/01/14-19:02:23.595 91f1 Generated table #2015@1: 3808 keys, 2126484 bytes
+2026/01/14-19:02:23.796 91f1 Generated table #2016@1: 3415 keys, 2124639 bytes
+2026/01/14-19:02:23.977 91f1 Generated table #2017@1: 25316 keys, 2150272 bytes
+2026/01/14-19:02:24.273 91f1 Generated table #2018@1: 105012 keys, 2256994 bytes
+2026/01/14-19:02:24.328 91f1 Generated table #2019@1: 497 keys, 11352 bytes
+2026/01/14-19:02:24.328 91f1 Compacted 1@1 + 10@2 files => 21916743 bytes
+2026/01/14-19:02:24.387 91f1 compacted to: files[ 0 2 41 0 0 0 0 ]
+2026/01/14-19:04:46.200 91f1 Compacting 1@1 + 10@2 files
+2026/01/14-19:04:46.457 91f1 Generated table #2020@1: 101559 keys, 2251900 bytes
+2026/01/14-19:04:46.682 91f1 Generated table #2021@1: 100349 keys, 2249842 bytes
+2026/01/14-19:04:46.982 91f1 Generated table #2022@1: 101033 keys, 2251481 bytes
+2026/01/14-19:04:47.205 91f1 Generated table #2023@1: 99434 keys, 2247715 bytes
+2026/01/14-19:04:47.428 91f1 Generated table #2024@1: 103134 keys, 2254311 bytes
+2026/01/14-19:04:47.651 91f1 Generated table #2025@1: 101004 keys, 2252011 bytes
+2026/01/14-19:04:47.864 91f1 Generated table #2026@1: 100554 keys, 2251290 bytes
+2026/01/14-19:04:48.111 91f1 Generated table #2027@1: 100110 keys, 2250099 bytes
+2026/01/14-19:04:48.334 91f1 Generated table #2028@1: 101688 keys, 2251524 bytes
+2026/01/14-19:04:48.569 91f1 Generated table #2029@1: 100750 keys, 2251550 bytes
+2026/01/14-19:04:48.613 91f1 Generated table #2030@1: 143 keys, 3220 bytes
+2026/01/14-19:04:48.614 91f1 Compacted 1@1 + 10@2 files => 22514943 bytes
+2026/01/14-19:04:48.649 91f1 compacted to: files[ 0 1 42 0 0 0 0 ]
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1981
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1991
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1988
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1974
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1976
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1983
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1984
+2026/01/14-19:04:48.650 91f1 Delete type=2 #1978
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1979
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1986
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1973
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1975
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1972
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1989
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1990
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1980
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1985
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1998
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1987
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1992
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1977
+2026/01/14-19:04:48.651 91f1 Delete type=2 #1999

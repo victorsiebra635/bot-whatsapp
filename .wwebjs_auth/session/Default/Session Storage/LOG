@@ -1,3 +1,2 @@
-2026/01/14-18:37:33.465 5 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001
-2026/01/14-18:37:33.467 5 Recovering log #3
-2026/01/14-18:37:33.468 5 Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/000003.log 
+2026/01/14-19:16:31.262 7 Creating DB /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage since it was missing.
+2026/01/14-19:16:31.703 7 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Session Storage/MANIFEST-000001

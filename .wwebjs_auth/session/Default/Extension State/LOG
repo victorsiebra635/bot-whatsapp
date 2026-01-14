@@ -1,3 +1,2 @@
-2026/01/14-18:37:32.619 873a Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Extension State/MANIFEST-000001
-2026/01/14-18:37:32.620 873a Recovering log #3
-2026/01/14-18:37:32.620 873a Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Extension State/000003.log 
+2026/01/14-19:16:31.976 96c0 Creating DB /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Extension State since it was missing.
+2026/01/14-19:16:32.458 96c0 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Extension State/MANIFEST-000001

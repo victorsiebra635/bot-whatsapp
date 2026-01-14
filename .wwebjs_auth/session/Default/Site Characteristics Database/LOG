@@ -1,3 +1,2 @@
-2026/01/14-18:37:32.379 8747 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Site Characteristics Database/MANIFEST-000001
-2026/01/14-18:37:32.379 8747 Recovering log #3
-2026/01/14-18:37:32.379 8747 Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Site Characteristics Database/000003.log 
+2026/01/14-19:16:31.132 96cd Creating DB /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Site Characteristics Database since it was missing.
+2026/01/14-19:16:31.551 96cd Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/Site Characteristics Database/MANIFEST-000001

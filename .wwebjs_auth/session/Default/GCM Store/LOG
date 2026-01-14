@@ -1,3 +1,2 @@
-2026/01/14-18:37:48.862 8742 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/GCM Store/MANIFEST-000001
-2026/01/14-18:37:48.863 8742 Recovering log #3
-2026/01/14-18:37:48.863 8742 Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/GCM Store/000003.log 
+2026/01/14-19:16:48.333 96c1 Creating DB /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/GCM Store since it was missing.
+2026/01/14-19:16:48.637 96c1 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/GCM Store/MANIFEST-000001

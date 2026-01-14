@@ -1,0 +1,95 @@
+2026/01/14-19:09:27.511 94ce Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/14-19:09:27.512 94ce Recovering log #1995
+2026/01/14-19:09:27.540 94ce Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001995.log 
+2026/01/14-19:09:29.981 94d6 Level-0 table #2033: started
+2026/01/14-19:09:30.059 94d6 Level-0 table #2033: 435913 bytes OK
+2026/01/14-19:09:30.090 94d6 Delete type=0 #1995
+2026/01/14-19:09:30.091 94cc Manual compaction at level-0 from '\x00J\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00K\x00\x00\x00' @ 0 : 0; will stop at '\x00J\x00\x00\x05' @ 6089508 : 1
+2026/01/14-19:09:30.091 94cc Compacting 1@0 + 1@1 files
+2026/01/14-19:09:30.161 94cc Generated table #2034@0: 7695 keys, 144758 bytes
+2026/01/14-19:09:30.207 94cc Generated table #2035@0: 289 keys, 20000 bytes
+2026/01/14-19:09:30.253 94cc Generated table #2036@0: 178 keys, 3458 bytes
+2026/01/14-19:09:30.299 94cc Generated table #2037@0: 1086 keys, 25573 bytes
+2026/01/14-19:09:30.300 94cc Compacted 1@0 + 1@1 files => 193789 bytes
+2026/01/14-19:09:30.334 94cc compacted to: files[ 0 4 42 0 0 0 0 ]
+2026/01/14-19:09:30.335 94cc Delete type=2 #2033
+2026/01/14-19:09:30.335 94cc Manual compaction at level-0 from '\x00J\x00\x00\x05' @ 6089508 : 1 .. '\x00K\x00\x00\x00' @ 0 : 0; will stop at (end)
+2026/01/14-19:09:30.680 94ce Compacting 1@1 + 12@2 files
+2026/01/14-19:09:30.970 94ce Generated table #2038@1: 56370 keys, 2222813 bytes
+2026/01/14-19:09:31.206 94ce Generated table #2039@1: 7295 keys, 2160616 bytes
+2026/01/14-19:09:31.461 94ce Generated table #2040@1: 2376 keys, 2158311 bytes
+2026/01/14-19:09:31.702 94ce Generated table #2041@1: 2722 keys, 2154982 bytes
+2026/01/14-19:09:31.905 94ce Generated table #2042@1: 2762 keys, 2156859 bytes
+2026/01/14-19:09:32.185 94ce Generated table #2043@1: 2642 keys, 2155422 bytes
+2026/01/14-19:09:32.431 94ce Generated table #2044@1: 3014 keys, 2153707 bytes
+2026/01/14-19:09:32.855 94ce Generated table #2045@1: 2916 keys, 2151906 bytes
+2026/01/14-19:09:33.146 94ce Generated table #2046@1: 2865 keys, 2149849 bytes
+2026/01/14-19:09:33.326 94ce Generated table #2047@1: 2512 keys, 2145098 bytes
+2026/01/14-19:09:33.410 94ce Generated table #2048@1: 535 keys, 503438 bytes
+2026/01/14-19:09:33.410 94ce Compacted 1@1 + 12@2 files => 22113001 bytes
+2026/01/14-19:09:33.787 94ce compacted to: files[ 0 3 41 0 0 0 0 ]
+2026/01/14-19:09:33.788 94ce Delete type=2 #2000
+2026/01/14-19:09:33.948 94ce Compacting 1@1 + 10@2 files
+2026/01/14-19:09:34.277 94ce Generated table #2049@1: 36374 keys, 2231395 bytes
+2026/01/14-19:09:34.433 94ce Generated table #2050@1: 30216 keys, 2272608 bytes
+2026/01/14-19:09:34.601 94ce Generated table #2051@1: 31250 keys, 2262689 bytes
+2026/01/14-19:09:34.803 94ce Generated table #2052@1: 27217 keys, 2229646 bytes
+2026/01/14-19:09:34.959 94ce Generated table #2053@1: 4518 keys, 2126325 bytes
+2026/01/14-19:09:35.082 94ce Generated table #2054@1: 5057 keys, 2127888 bytes
+2026/01/14-19:09:35.229 94ce Generated table #2055@1: 3810 keys, 2124530 bytes
+2026/01/14-19:09:35.356 94ce Generated table #2056@1: 3396 keys, 2124977 bytes
+2026/01/14-19:09:35.483 94ce Generated table #2057@1: 24910 keys, 2150961 bytes
+2026/01/14-19:09:35.943 94ce Generated table #2058@1: 105063 keys, 2258226 bytes
+2026/01/14-19:09:35.998 94ce Generated table #2059@1: 418 keys, 9037 bytes
+2026/01/14-19:09:35.998 94ce Compacted 1@1 + 10@2 files => 21918282 bytes
+2026/01/14-19:09:36.039 94ce compacted to: files[ 0 2 42 0 0 0 0 ]
+2026/01/14-19:09:36.040 94ce Delete type=2 #2034
+2026/01/14-19:09:36.040 94ce Delete type=2 #2001
+2026/01/14-19:09:36.041 94ce Delete type=2 #1906
+2026/01/14-19:09:36.041 94ce Delete type=2 #2003
+2026/01/14-19:09:36.041 94ce Delete type=2 #1904
+2026/01/14-19:09:36.041 94ce Delete type=2 #2007
+2026/01/14-19:09:36.041 94ce Delete type=2 #1905
+2026/01/14-19:09:36.041 94ce Delete type=2 #2008
+2026/01/14-19:09:36.041 94ce Delete type=2 #2004
+2026/01/14-19:09:36.041 94ce Delete type=2 #2005
+2026/01/14-19:09:36.041 94ce Delete type=2 #2002
+2026/01/14-19:09:36.041 94ce Delete type=2 #2006
+2026/01/14-19:09:36.041 94ce Delete type=2 #1852
+2026/01/14-19:12:20.882 94ce Compacting 1@1 + 11@2 files
+2026/01/14-19:12:21.222 94ce Generated table #2060@1: 101527 keys, 2251574 bytes
+2026/01/14-19:12:21.467 94ce Generated table #2061@1: 100314 keys, 2250426 bytes
+2026/01/14-19:12:21.679 94ce Generated table #2062@1: 100971 keys, 2250917 bytes
+2026/01/14-19:12:21.892 94ce Generated table #2063@1: 99498 keys, 2247598 bytes
+2026/01/14-19:12:22.117 94ce Generated table #2064@1: 103150 keys, 2253810 bytes
+2026/01/14-19:12:22.329 94ce Generated table #2065@1: 100861 keys, 2249662 bytes
+2026/01/14-19:12:22.529 94ce Generated table #2066@1: 100400 keys, 2248728 bytes
+2026/01/14-19:12:22.741 94ce Generated table #2067@1: 100156 keys, 2249379 bytes
+2026/01/14-19:12:22.953 94ce Generated table #2068@1: 101616 keys, 2251776 bytes
+2026/01/14-19:12:23.221 94ce Generated table #2069@1: 100587 keys, 2249099 bytes
+2026/01/14-19:12:23.361 94ce Generated table #2070@1: 1222 keys, 25038 bytes
+2026/01/14-19:12:23.361 94ce Compacted 1@1 + 11@2 files => 22528007 bytes
+2026/01/14-19:12:23.478 94ce compacted to: files[ 0 1 42 0 0 0 0 ]
+2026/01/14-19:12:23.479 94ce Delete type=2 #1917
+2026/01/14-19:12:23.479 94ce Delete type=2 #2011
+2026/01/14-19:12:23.480 94ce Delete type=2 #2035
+2026/01/14-19:12:23.480 94ce Delete type=2 #2028
+2026/01/14-19:12:23.480 94ce Delete type=2 #2012
+2026/01/14-19:12:23.480 94ce Delete type=2 #2024
+2026/01/14-19:12:23.480 94ce Delete type=2 #2016
+2026/01/14-19:12:23.480 94ce Delete type=2 #2025
+2026/01/14-19:12:23.480 94ce Delete type=2 #2036
+2026/01/14-19:12:23.480 94ce Delete type=2 #2022
+2026/01/14-19:12:23.480 94ce Delete type=2 #2009
+2026/01/14-19:12:23.480 94ce Delete type=2 #2029
+2026/01/14-19:12:23.480 94ce Delete type=2 #2023
+2026/01/14-19:12:23.480 94ce Delete type=2 #2017
+2026/01/14-19:12:23.480 94ce Delete type=2 #2020
+2026/01/14-19:12:23.481 94ce Delete type=2 #2018
+2026/01/14-19:12:23.481 94ce Delete type=2 #2013
+2026/01/14-19:12:23.481 94ce Delete type=2 #2026
+2026/01/14-19:12:23.481 94ce Delete type=2 #2014
+2026/01/14-19:12:23.481 94ce Delete type=2 #2021
+2026/01/14-19:12:23.481 94ce Delete type=2 #2027
+2026/01/14-19:12:23.481 94ce Delete type=2 #2015
+2026/01/14-19:12:23.481 94ce Delete type=2 #2010

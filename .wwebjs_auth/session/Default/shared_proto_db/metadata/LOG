@@ -1,3 +1,2 @@
-2026/01/14-18:37:32.540 8743 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/shared_proto_db/metadata/MANIFEST-000001
-2026/01/14-18:37:32.541 8743 Recovering log #3
-2026/01/14-18:37:32.541 8743 Reusing old log /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/shared_proto_db/metadata/000003.log 
+2026/01/14-19:16:31.276 96c3 Creating DB /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/shared_proto_db/metadata since it was missing.
+2026/01/14-19:16:31.702 96c3 Reusing MANIFEST /home/alexandra/bot-whatsapp/.wwebjs_auth/session/Default/shared_proto_db/metadata/MANIFEST-000001
