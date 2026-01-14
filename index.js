@@ -1,16 +1,17 @@
+require('dotenv').config();
 const { Client, LocalAuth } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
 const OpenAI = require('openai');
+
 
 const client = new Client({
   authStrategy: new LocalAuth()
 });
 
 const openai = new OpenAI({
-  apiKey: 'const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY
-});'
 });
+
 
 const delay = ms => new Promise(r => setTimeout(r, ms));
 const historico = {};
